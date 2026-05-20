@@ -1,5 +1,15 @@
 # 🔐 Vulnerability Assessment Report – VoteVerse Web Application
 
+<div align="center">
+
+![Cyber Security](https://img.shields.io/badge/Cyber%20Security-API%20Analysis-red?style=for-the-badge)
+![Internship](https://img.shields.io/badge/Future%20Interns-Task%2003-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+
+</div>
+
+---
+
 ## 📌 Overview
 
 This repository contains a professional vulnerability assessment report conducted on the **VoteVerse** web application as part of the **Cyber Security Internship Program by Future Interns**.
