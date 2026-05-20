@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Cyber Security](https://img.shields.io/badge/Cyber%20Security-API%20Analysis-red?style=for-the-badge)
+![Cyber Security](https://img.shields.io/badge/Cyber%20Security-Vulnerability%20Assessment-red?style=for-the-badge)
 ![Internship](https://img.shields.io/badge/Future%20Interns-Task%2001-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
